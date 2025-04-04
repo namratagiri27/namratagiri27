@@ -41,7 +41,7 @@
 ## ✨ Fun Fact
 
 I mix logic with creativity — whether it's writing clean code or designing cool visuals ✨
-## Hi there 👋
+
 
 <!--
 **namratagiri27/namratagiri27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
